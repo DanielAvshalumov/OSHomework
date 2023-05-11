@@ -1,0 +1,8 @@
+Begin of file
+
+This a test text file.
+There are some non-ascii characters embedded
+Which may prevent this file's content
+to be displayed properly
+
+End of file
